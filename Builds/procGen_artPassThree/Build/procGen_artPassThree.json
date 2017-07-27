@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "procGen_artPassThree.data.unityweb",
+"asmCodeUrl": "procGen_artPassThree.asm.code.unityweb",
+"asmMemoryUrl": "procGen_artPassThree.asm.memory.unityweb",
+"asmFrameworkUrl": "procGen_artPassThree.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
